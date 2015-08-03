@@ -6,6 +6,10 @@
     "ipc"
   ],
   "author": "Marat Dulin <mdevils@yandex.ru>",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/mdevils/node-sibling.git"
+  },
   "dependencies": {
     "inherit": "~2.1.0",
     "vow": "~0.4.1"
